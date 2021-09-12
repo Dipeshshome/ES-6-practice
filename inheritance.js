@@ -16,7 +16,6 @@ class Child extends Parent{
 
 }
 
-
 const baby= new Child("Arnold");
 console.log(baby);
 console.log(baby.getFullName());
